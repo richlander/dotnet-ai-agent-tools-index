@@ -1,6 +1,6 @@
-# dotnet-ai-agent-tools-index
+# C# and .NET Guidance for AI Agents
 
-An index of useful tools for AI agents processing .NET code. This repository serves as a centralized directory of specialized tools designed to help AI coding assistants work more effectively with .NET projects and codebases.
+An index of useful tools for AI agents processing C# and .NET code. This repository serves as a centralized directory of specialized tools designed to help AI coding assistants work more effectively with .NET projects and codebases.
 
 ## Tools Index
 
